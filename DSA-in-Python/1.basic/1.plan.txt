@@ -1,9 +1,0 @@
-complete series plan 
-
-python basic 
-function lambda function and recursion 
-time and space complexity analysis
-list tuples and string 
-searching and sorting
-set and dictionary 
-

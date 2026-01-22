@@ -1,2 +1,0 @@
-print("free")
-print("hell")
