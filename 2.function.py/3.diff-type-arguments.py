@@ -14,7 +14,7 @@ def dree(name ,age ,message):
 dree(name="suhsil",age=21,message="hello")
 print(dree)
 
-# positional argument 
+# positational argument 
 def add_number(x,y):
     print("x " , x)
     print("y ", y)
