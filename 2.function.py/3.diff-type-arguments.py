@@ -23,4 +23,14 @@ def add_number(x,y):
 add_number(5,6)
 
 
+def sum_number(*args):
+    print(type(args))
+    print(args)
+
+    sum = 0
+    for num in args : 
+        sum +=num 
+    return sum 
+
+print(sum_number(1,2,3,4,5))
 
