@@ -17,3 +17,9 @@ per = person()
 print(per.name)
 print(per.age)
 print(per.village)
+
+#add some object
+ 
+per.hobby = "volleyball"
+print(per.hobby)
+
