@@ -22,3 +22,16 @@ per1 =Person("Singh", 22)
 print(per.name)
 print(per1.name)
 
+
+class per:
+    country = "india"
+    def __init__(self,name,age):
+        self.name = name 
+        self.age = age
+
+per7 = per("singhji",00)
+per8 = per ("shivaji",00)
+
+print(per7.name,per7.country,per7.age)
+print(per8.name)
+        
