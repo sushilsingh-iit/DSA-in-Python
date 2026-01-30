@@ -10,3 +10,21 @@ class person :
         
 # second part of encaplsulation
 
+
+#getter and setter - public method to allow the controlled interaction
+
+    def get_name(self):
+        return self.__name
+    
+    def set_name(self,name):
+        self.__name = name
+    def get_car(self):
+        return self.__car
+    def set_car(self , car):
+        self.__car = car
+
+
+per = person("sushil", 21)
+print(per.get_name())
+per.set_name("singh ji ")
+print(per.get_name())
