@@ -33,3 +33,4 @@ class child(parent):
 
 obj = child()
 obj.Display()
+obj.calleat()
