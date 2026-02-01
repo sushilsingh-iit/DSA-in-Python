@@ -34,6 +34,25 @@ class Pet (Dog):
         self.houseName = houseName
 
 
+# multi method 
+
+class a :
+    def meth(self):
+        print("hello from a ")
+
+class b :
+    def meth(self):
+        print("hello from b ")
+
+class c(a,b):
+    def meth(self):
+        print("hello from c ")
+
+
+C = c()
+C.meth()
+
+
 
 
  
