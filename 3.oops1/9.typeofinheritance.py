@@ -67,3 +67,5 @@ c2.func1()  # Child 2 accesses same Parent
 
 
 
+# end of inehritance part 
+# complete revision all part 
