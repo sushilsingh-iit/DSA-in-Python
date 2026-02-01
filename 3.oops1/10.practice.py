@@ -53,6 +53,11 @@ C = c()
 C.meth()
 
 
+# hybrid inheritance 
+
+class pet (Dog):
+    pass 
+
 
 
  
