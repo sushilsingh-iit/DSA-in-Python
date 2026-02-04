@@ -23,3 +23,6 @@ c.eat()
 d.eat()
 a.eat()
 
+
+
+# polymorphism is using inheritance 
